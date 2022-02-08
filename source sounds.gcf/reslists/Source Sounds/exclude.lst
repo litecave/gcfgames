@@ -1,0 +1,17 @@
+reslists
+hl2\reslists
+hl2\resource
+hl2\cfg\user_default.scr
+hl2\cfg\config_default.cfg
+hl2\cfg\settings_default.scr
+hl2\cfg\ai.cfg
+hl2\resource\ui
+hl2\media
+*.vtf
+*.sw.vtx
+*.jpg
+*.dx80.vtx
+hl2\sound\vo
+hl2\sound\music
+hl2\sound\npc\metropolice\vo
+hl2\sound\npc\combine_soldier\vo
